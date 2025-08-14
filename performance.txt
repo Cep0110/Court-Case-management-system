@@ -1,0 +1,35 @@
+Court Case Management System - Time and Space Complexity
+
+Linked List (CaseList)
+- Add Case: O(1)
+- Delete/Search: O(n)
+- Space: O(n)
+
+Queue (CaseScheduler)
+- Add Hearing: O(1)
+- View: O(n)
+- Space: O(n)
+
+Stack (UndoStack)
+- Push/Pop: O(1)
+- Space: O(n)
+
+Merge Sort (CaseSorter)
+- Sort Cases: O(n log n)
+- Space: O(1) extra (but O(log n) stack)
+
+Hash Table (CaseHashTable)
+- Insert/Lookup: O(1) average, O(n) worst
+- Space: O(n)
+
+Priority Queue (CasePriorityQueue)
+- Insert: O(log n)
+- Remove Min: O(log n)
+- Space: O(n)
+
+Graph (CaseGraph)
+- Add Dependency/Get Deps: O(1)
+- Space: O(V+E)
+
+Analytics
+- Count/Stats: O(n)

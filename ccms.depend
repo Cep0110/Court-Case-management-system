@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1755062680 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\accesscontrol.cpp
+	"AccessControl.h"
+
+1755062680 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\accesscontrol.h
+
+1755062679 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\caseanalytics.cpp
+	"CaseAnalytics.h"
+	"CaseList.h"
+	"CaseNode.h"
+
+1755062679 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\caseanalytics.h
+	<string>
+
+1755064643 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\caselist.h
+	"CaseNode.h"
+	<string>
+
+1755062678 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\casegraph.cpp
+	"CaseGraph.h"
+
+1755062678 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\casegraph.h
+	<unordered_map>
+	<vector>
+
+1755062679 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\casehashtable.cpp
+	"CaseHashTable.h"
+
+1755062680 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\casehashtable.h
+	"CaseNode.h"
+	<unordered_map>
+
+1755064643 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\caselist.cpp
+	"CaseList.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1755062679 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\casepriorityqueue.cpp
+	"CasePriorityQueue.h"
+
+1755062679 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\casepriorityqueue.h
+	<queue>
+	<string>
+	<vector>
+
+1755062679 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\casescheduler.cpp
+	"CaseScheduler.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1755062679 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\casescheduler.h
+	<string>
+	<vector>
+
+1755063351 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\casesorter.cpp
+	"CaseSorter.h"
+	<string>
+
+1755063351 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\casesorter.h
+	"CaseNode.h"
+
+1755063351 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"CaseList.h"
+	"CaseScheduler.h"
+	"UndoStack.h"
+	"CaseSorter.h"
+	"CaseHashTable.h"
+	"CasePriorityQueue.h"
+	"CaseGraph.h"
+	"CaseAnalytics.h"
+	"AccessControl.h"
+	"PasswordManager.h"
+	"InputValidator.h"
+
+1755062947 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\undostack.h
+	<stack>
+	<string>
+
+1755062679 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\passwordmanager.h
+	<string>
+	"AccessControl.h"
+
+1755062679 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\passwordmanager.cpp
+	"PasswordManager.h"
+	<iostream>
+	<map>
+
+1755062947 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\undostack.cpp
+	"UndoStack.h"
+
+1755062679 source:c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\inputvalidator.cpp
+	"InputValidator.h"
+	<iostream>
+	<regex>
+	<limits>
+
+1755062679 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\inputvalidator.h
+	<string>
+
+1755062679 c:\users\sooq elaser\onedrive\desktop\dsa project\ccms\casenode.h
+	<string>
+
